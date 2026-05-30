@@ -3,7 +3,7 @@
   "wake_word": "HEY_GORT",
   "author": "tater totterson",
   "model": "hey_gort.tflite",
-  "version": 1,
+  "version": 2,
   "sliding_window_size": 10,
   "feature_step_size": 10,
   "probability_cutoff": 0.9
